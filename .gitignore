@@ -3,3 +3,11 @@ data/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# CatBoost generated training logs
+catboost_info/
+notebooks/catboost_info/
+
+# CatBoost generated training logs
+catboost_info/
+notebooks/catboost_info/
