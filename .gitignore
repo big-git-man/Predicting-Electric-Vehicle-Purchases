@@ -13,3 +13,8 @@ catboost_info/
 notebooks/catboost_info/
 results/experiment_28_oof_predictions.csv
 results/experiment_29_oof_predictions.csv
+
+external_data/
+
+# Large generated Exp47 ensemble blend files
+submissions/experiment_47_external_ensemble/
