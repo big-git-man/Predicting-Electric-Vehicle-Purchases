@@ -25,3 +25,6 @@ submissions/experiment_49_prediction_family_mining/
 submissions/experiment_47_external_ensemble/top_3_external_mean.csv
 submissions/experiment_47_external_ensemble/top_5_external_mean.csv
 submissions/experiment_47_external_ensemble/top_8_external_mean.csv
+
+# Experiment 47 generated outputs
+submissions/experiment_47_external_ensemble/
