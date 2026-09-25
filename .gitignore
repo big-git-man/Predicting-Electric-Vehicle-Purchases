@@ -20,3 +20,8 @@ external_data/
 submissions/experiment_47_external_ensemble/
 submissions/experiment_46_blends/
 submissions/experiment_49_prediction_family_mining/
+
+# Experiment 47 selected blend outputs
+submissions/experiment_47_external_ensemble/top_3_external_mean.csv
+submissions/experiment_47_external_ensemble/top_5_external_mean.csv
+submissions/experiment_47_external_ensemble/top_8_external_mean.csv
