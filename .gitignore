@@ -18,3 +18,5 @@ external_data/
 
 # Large generated Exp47 ensemble blend files
 submissions/experiment_47_external_ensemble/
+submissions/experiment_46_blends/
+submissions/experiment_49_prediction_family_mining/
