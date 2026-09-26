@@ -28,3 +28,7 @@ submissions/experiment_47_external_ensemble/top_8_external_mean.csv
 
 # Experiment 47 generated outputs
 submissions/experiment_47_external_ensemble/
+
+# Experiment 50 results
+results/exp50_search_results.csv
+results/exp50_best_recipe.json
