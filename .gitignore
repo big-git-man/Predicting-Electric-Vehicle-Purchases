@@ -32,3 +32,6 @@ submissions/experiment_47_external_ensemble/
 # Experiment 50 results
 results/exp50_search_results.csv
 results/exp50_best_recipe.json
+
+# Experiment 52 generated results
+results/exp52_top_recipes.csv
